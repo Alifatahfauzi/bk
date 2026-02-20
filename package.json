@@ -1,5 +1,5 @@
 {
-  "name": "@skyzopedia/baileys-pro",
+  "name": "@baileys-follow",
   "version": "8.0.6",
   "description": "Websocket Whatsapp API for Node.js",
   "keywords": [
@@ -18,7 +18,7 @@
     "url": "git+ssh://git@github.com/skyzopedia/Baileys.git"
   },
   "license": "MIT",
-  "author": "Skyzopedia",
+  "author": "baileys-follow",
   "main": "./lib/index.js",
   "files": [
     "lib/*",
